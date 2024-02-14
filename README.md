@@ -1,2 +1,3 @@
-# Speed-and-traffic-density-estimation
-https://tufts.box.com/s/bsxwddo6g00y76wfcdof2lw9jdu59gm1
+# [Instant-level vehicle speed and traffic density estimation using deep neural network](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12526/125260J/Instant-level-vehicle-speed-and-traffic-density-estimation-using-deep/10.1117/12.2663643.short#_=_)
+
+My published work on speed and traffic density estimation in real time using work from the [Siamese Multi Object Tracking (SiamMOT)](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf) and achieves state of the art performance across diverse weather conditions. Demo videos can be found [here.](https://tufts.box.com/s/bsxwddo6g00y76wfcdof2lw9jdu59gm1)
