@@ -11,5 +11,5 @@ The growing network of highway video surveillance cameras generates an immense a
 
 ![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/635e72b64bf718743fe210be4cf16cd3e1fbd793/speed%20est1.png)
 
-![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/635e72b64bf718743fe210be4cf16cd3e1fbd793/speed%20est1.png)
+![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/4d4cc35fe3154b517598250ea0542cb8d3c50b23/speedest2.png)
 
