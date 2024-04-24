@@ -13,3 +13,21 @@ The growing network of highway video surveillance cameras generates an immense a
 
 ![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/4d4cc35fe3154b517598250ea0542cb8d3c50b23/speedest2.png)
 
+Method	Scene	MAE 
+RMSE 
+R2 
+
+
+
+Ours	Sunny	1.016	2.341	0.528
+	Cloudy	0.571	1.012	0.700
+	Rainy	0.771	1.382	0.489
+	Night	0.969	1.880	0.636
+
+      ECCNet [29]
+Sunny	2.850	4.000	-
+	Cloudy	2.770	3.510	-
+	Rainy	3.180	3.900	-
+	Night	3.590	4.480	-
+
+
