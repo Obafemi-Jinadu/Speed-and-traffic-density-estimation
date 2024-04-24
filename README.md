@@ -28,6 +28,7 @@ The growing network of highway video surveillance cameras generates an immense a
 
 
 ![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/e238c7dc532741c72eda3ac5a6791f2d75b95771/speedresult1.png)
+![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/e238c7dc532741c72eda3ac5a6791f2d75b95771/speedresult1.png)
 
 ## References
 [1] 	Shuai, B., Berneshawi, A., Li, X., Modolo, D. and Tighe, J., 2021. Siammot: Siamese multi-object tracking. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 12372-12382). 
