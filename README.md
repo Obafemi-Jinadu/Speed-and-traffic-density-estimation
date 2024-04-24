@@ -26,7 +26,8 @@ The growing network of highway video surveillance cameras generates an immense a
 |ECCNet [3]|Rainy|	3.180|	3.900|	-|
 |ECCNet [3]|Night	|3.590	|4.480|	-|
 
-a) cloudy: [full video here](https://tufts.app.box.com/s/bsxwddo6g00y76wfcdof2lw9jdu59gm1/file/1194033842758)
+a) cloudy: [full video here](https://tufts.app.box.com/s/bsxwddo6g00y76wfcdof2lw9jdu59gm1/file/1194038729961)
+b) rainy: [full video here](https://tufts.app.box.com/s/bsxwddo6g00y76wfcdof2lw9jdu59gm1/file/1194033842758)
 c) sunny: [full video here](https://tufts.app.box.com/s/bsxwddo6g00y76wfcdof2lw9jdu59gm1/file/1194070657007)
 d) night: [full video here](https://tufts.app.box.com/s/bsxwddo6g00y76wfcdof2lw9jdu59gm1/file/1193902776245)
 ![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/e238c7dc532741c72eda3ac5a6791f2d75b95771/speedresult1.png)
