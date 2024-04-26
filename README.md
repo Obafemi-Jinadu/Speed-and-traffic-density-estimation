@@ -40,5 +40,22 @@ d)  night - [full video here](https://tufts.app.box.com/s/bsxwddo6g00y76wfcdof2l
 
 [3] Yu, C., Yang, J., Jiang, S., Zhang, Y., Li, H. and Du, L., 2022. ECCNet: Efficient chained centre network for real‐time multi‐category vehicle tracking and vehicle speed estimation. IET Intelligent Transport Systems, 16(11), pp.1489-1503. 
 
+## Citation
+```
+@inproceedings{10.1117/12.2663643,
+author = {Obafemi Jinadu and Victor Oludare and Srijith Rajeev and Landry Kezebou and Karen Panetta and Sos Agaian},
+title = {{Instant-level vehicle speed and traffic density estimation using deep neural network}},
+volume = {12526},
+booktitle = {Multimodal Image Exploitation and Learning 2023
+},
+editor = {Sos S. Agaian and Vijayan K. Asari and Stephen P. DelMarco},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {125260J},
+keywords = {vehicle speed estimation, vehicle detection, deep learning, Multiple object tracking, traffic density estimation, intelligent transportation system},
+year = {2023},
+doi = {10.1117/12.2663643},
+URL = {https://doi.org/10.1117/12.2663643}
+}
 
-
+```
