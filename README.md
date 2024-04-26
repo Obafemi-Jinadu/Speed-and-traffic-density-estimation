@@ -33,13 +33,6 @@ d)  night - [full video here](https://tufts.app.box.com/s/bsxwddo6g00y76wfcdof2l
 ![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/e238c7dc532741c72eda3ac5a6791f2d75b95771/speedresult1.png)
 ![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/f6f59e31b4a696f53410ecb9958cb223f8abde1c/spedestres2.png)
 
-## References
-[1] 	Shuai, B., Berneshawi, A., Li, X., Modolo, D. and Tighe, J., 2021. Siammot: Siamese multi-object tracking. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 12372-12382). 
-
-[2] S. Lyu et al., ‘UA-DETRAC 2018: Report of AVSS2018 IWT4S Challenge on Advanced Traffic Monitoring,’ in 2018 15th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), Nov. 2018, pp. 1–6. doi: 10.1109/AVSS.2018.8639089. 
-
-[3] Yu, C., Yang, J., Jiang, S., Zhang, Y., Li, H. and Du, L., 2022. ECCNet: Efficient chained centre network for real‐time multi‐category vehicle tracking and vehicle speed estimation. IET Intelligent Transport Systems, 16(11), pp.1489-1503. 
-
 ## Citation
 ```
 @inproceedings{10.1117/12.2663643,
@@ -59,3 +52,12 @@ URL = {https://doi.org/10.1117/12.2663643}
 }
 
 ```
+
+## References
+[1] 	Shuai, B., Berneshawi, A., Li, X., Modolo, D. and Tighe, J., 2021. Siammot: Siamese multi-object tracking. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 12372-12382). 
+
+[2] S. Lyu et al., ‘UA-DETRAC 2018: Report of AVSS2018 IWT4S Challenge on Advanced Traffic Monitoring,’ in 2018 15th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), Nov. 2018, pp. 1–6. doi: 10.1109/AVSS.2018.8639089. 
+
+[3] Yu, C., Yang, J., Jiang, S., Zhang, Y., Li, H. and Du, L., 2022. ECCNet: Efficient chained centre network for real‐time multi‐category vehicle tracking and vehicle speed estimation. IET Intelligent Transport Systems, 16(11), pp.1489-1503. 
+
+
