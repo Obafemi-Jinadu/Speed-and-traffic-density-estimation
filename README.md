@@ -34,7 +34,7 @@ d)  night - [full video here](https://tufts.app.box.com/s/bsxwddo6g00y76wfcdof2l
 ![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/f6f59e31b4a696f53410ecb9958cb223f8abde1c/spedestres2.png)
 
 ## Set up & run instructions
-To begin, ensure ultralytics, scikit-learn, joblib, matplotlib are installed. If not, run:
+To begin, ensure ultralytics (as it is dependent on [YOLOV8](https://docs.ultralytics.com/modes/track/)), scikit-learn, joblib, matplotlib are installed. If not, run:
 ```
 pip install -r "/speed estimation project code/requirements.txt"
 ```
