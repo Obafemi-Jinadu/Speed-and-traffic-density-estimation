@@ -33,6 +33,16 @@ d)  night - [full video here](https://tufts.app.box.com/s/bsxwddo6g00y76wfcdof2l
 ![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/e238c7dc532741c72eda3ac5a6791f2d75b95771/speedresult1.png)
 ![image](https://github.com/Obafemi-Jinadu/Speed-and-traffic-density-estimation/blob/f6f59e31b4a696f53410ecb9958cb223f8abde1c/spedestres2.png)
 
+## Set up & run instructions
+To begin, ensure ultralytics, scikit-learn, joblib, matplotlib are installed. If not, run:
+```
+pip install -r "/speed estimation project code/requirements.txt"
+```
+Once packages are installed for inference run:
+```
+python "/speed estimation project code/speed_traffic_estimation.py" --video_dir 'path_to_video'
+```
+
 ## Citation
 ```
 @inproceedings{10.1117/12.2663643,
