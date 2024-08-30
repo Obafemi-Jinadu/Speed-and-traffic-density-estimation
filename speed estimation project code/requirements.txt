@@ -1,0 +1,5 @@
+pip install ultralytics
+pip install -U scikit-learn scipy matplotlib
+pip install joblib
+pip install matplotlib
+
